@@ -1,6 +1,6 @@
 # Unity Simulation Server for BlueROV2
 
-A Unity-based simulation server for underwater robotics including BlueROV2 with ROS2 integration.
+A Unity-based simulation server for underwater robotics including a BlueROV with ROS2 integration.
 
 ## Features
 
